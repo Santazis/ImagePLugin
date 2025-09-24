@@ -1,0 +1,5 @@
+
+[
+    {"Name": "Blur","Type": "ImagePlugin.Services.BlurPlugin"},
+    {"Name": "Resize","Type": "ImagePlugin.Services.ResizePlugin"}
+]
