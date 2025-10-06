@@ -1,1 +1,2 @@
+Due to limited time, I was unable to implement more advanced plugin loading logic and robust exception handling. In the current version, errors may occur if plugin types in the configuration are incorrect or if effect parameters are of the wrong type. Future improvements would include type checking, safe parameter casting, and more resilient error handling
 
